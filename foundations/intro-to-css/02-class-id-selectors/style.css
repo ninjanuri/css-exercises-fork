@@ -1,0 +1,16 @@
+.bacon {
+    background-color: rgb(240, 146, 146);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+#two {
+    color: rgb(100, 50, 240);
+    font-size: 36px;
+}
+.odd {
+    font-size: 24px;
+}
+#four {
+    background-color: rgb(100, 400, 120);
+    font-size: 24px;
+    font-weight: 700;
+}
